@@ -1,0 +1,5 @@
+RUN	simulations.TestCorelationUsers	testcorelationusers	1644357003519	Test Run	3.6.1
+USER	Correlation and Extract data	START	1644357005614
+REQUEST		Get all users	1644357005629	1644357006616	OK	 
+REQUEST		Get user by ID	1644357006693	1644357006920	OK	 
+USER	Correlation and Extract data	END	1644357006928

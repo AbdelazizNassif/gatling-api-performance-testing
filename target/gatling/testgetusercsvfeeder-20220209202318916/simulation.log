@@ -1,0 +1,10 @@
+RUN	simulations.TestGetUserCsvFeeder	testgetusercsvfeeder	1644438198916	test runner	3.6.1
+USER	CSV Feeder test	START	1644438205985
+REQUEST		get single user using csv feeder	1644438206013	1644438207007	KO	jsonPath($.name).find.is( Subhasini Prajapat DO), but actually found Subhasini Prajapat DO
+REQUEST		get single user using csv feeder	1644438207072	1644438207371	KO	jsonPath($.name).find.is( Msgr. Adityanandan Gill), but actually found Msgr. Adityanandan Gill
+REQUEST		get single user using csv feeder	1644438207376	1644438208209	KO	jsonPath($.name).find.is( Mr. Brahma Gowda), but actually found Mr. Brahma Gowda
+REQUEST		get single user using csv feeder	1644438208215	1644438208500	OK	 
+REQUEST		get single user using csv feeder	1644438208505	1644438208908	OK	 
+REQUEST		get single user using csv feeder	1644438208911	1644438209222	OK	 
+REQUEST		get single user using csv feeder	1644438209225	1644438209528	OK	 
+USER	CSV Feeder test	END	1644438209535

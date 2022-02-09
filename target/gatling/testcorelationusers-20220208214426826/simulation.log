@@ -1,0 +1,5 @@
+RUN	simulations.TestCorelationUsers	testcorelationusers	1644356666826	Test Runner	3.6.1
+USER	Correlation and Extract data	START	1644356668874
+REQUEST		Get all users	1644356668898	1644356670163	OK	 
+REQUEST		Get user by ID	1644356670226	1644356670524	KO	jsonPath($[0].id).find.is(5432), but actually found nothing
+USER	Correlation and Extract data	END	1644356670600

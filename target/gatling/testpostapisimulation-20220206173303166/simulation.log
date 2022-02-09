@@ -1,0 +1,5 @@
+RUN	simulations.TestPostApiSimulation	testpostapisimulation	1644168783166	test runner	3.6.1
+USER	Add user Scenario	START	1644168786781
+REQUEST		add user request	1644168786798	1644168788291	OK	 
+REQUEST		get users list	1644168791357	1644168791473	OK	 
+USER	Add user Scenario	END	1644168791479

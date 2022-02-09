@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestGetUsersListApiSimulation",
+  "simulationId": "testgetuserslistapisimulation",
+  "start": 1644278030549,
+  "description": "test run",
+  "scenarios": ["get users list"],
+  "assertions": [
+
+  ]
+}

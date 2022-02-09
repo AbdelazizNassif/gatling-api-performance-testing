@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestPostApiSimulation",
+  "simulationId": "testpostapisimulation",
+  "start": 1644168783166,
+  "description": "test runner",
+  "scenarios": ["Add user Scenario"],
+  "assertions": [
+
+  ]
+}

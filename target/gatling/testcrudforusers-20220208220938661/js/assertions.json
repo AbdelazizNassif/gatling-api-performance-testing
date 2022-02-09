@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestCRUDForUsers",
+  "simulationId": "testcrudforusers",
+  "start": 1644358178661,
+  "description": "Test Run",
+  "scenarios": ["CREATE, READ, UPDATE, DELETE For USER"],
+  "assertions": [
+
+  ]
+}

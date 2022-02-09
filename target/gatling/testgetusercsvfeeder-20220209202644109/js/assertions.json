@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestGetUserCsvFeeder",
+  "simulationId": "testgetusercsvfeeder",
+  "start": 1644438404109,
+  "description": "test runner",
+  "scenarios": ["CSV Feeder test"],
+  "assertions": [
+
+  ]
+}

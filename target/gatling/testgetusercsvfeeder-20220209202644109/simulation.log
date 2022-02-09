@@ -1,0 +1,10 @@
+RUN	simulations.TestGetUserCsvFeeder	testgetusercsvfeeder	1644438404109	test runner	3.6.1
+USER	CSV Feeder test	START	1644438405327
+REQUEST		get single user using csv feeder	1644438405360	1644438406550	OK	 
+REQUEST		get single user using csv feeder	1644438408614	1644438408904	OK	 
+REQUEST		get single user using csv feeder	1644438410920	1644438411362	OK	 
+REQUEST		get single user using csv feeder	1644438413371	1644438413613	OK	 
+REQUEST		get single user using csv feeder	1644438415623	1644438415865	OK	 
+REQUEST		get single user using csv feeder	1644438417873	1644438418119	OK	 
+REQUEST		get single user using csv feeder	1644438420127	1644438421094	OK	 
+USER	CSV Feeder test	END	1644438423117

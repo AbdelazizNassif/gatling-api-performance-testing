@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestCorelationUsers",
+  "simulationId": "testcorelationusers",
+  "start": 1644356666826,
+  "description": "Test Runner",
+  "scenarios": ["Correlation and Extract data"],
+  "assertions": [
+
+  ]
+}
